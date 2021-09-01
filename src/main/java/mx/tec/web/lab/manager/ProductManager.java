@@ -11,7 +11,6 @@ import java.util.Optional;
 
 import javax.annotation.Resource;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import mx.tec.web.lab.dao.ProductDAO;
